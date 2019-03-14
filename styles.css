@@ -125,7 +125,7 @@ a img{border:0px;}
 	width:235px;
 	float:left;
 }
-#profile .content{overflow:auto;}
+#profile .content{overflow:visible;}
 #profile .col-mid{margin:0px 65px;}
 
 /****************************************************/
